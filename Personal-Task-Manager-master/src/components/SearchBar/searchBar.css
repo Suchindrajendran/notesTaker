@@ -1,0 +1,22 @@
+
+.search-container{
+    padding: 18px 24px;
+    display: flex;
+    justify-self: center;
+}
+
+.search-btn{
+    padding: 3px;
+    width: 90px;
+    border-radius: 10px;
+    border-width: 1px;
+    margin-left: 13px;
+}
+
+.input-box{
+    width: 200px;
+    font-size: 12px;
+    padding: 10px;
+    margin-right: 12px;
+}
+
